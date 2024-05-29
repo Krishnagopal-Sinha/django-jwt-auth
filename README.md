@@ -5,6 +5,7 @@ This Django project implements user registration, login, and authentication usin
 
 ### Requirements
 - Checkout [requirements.txt](./requirements.txt). 
+
 Note: This is simple package dump, unneeded pacakges are also included.
 
 ### Installation
