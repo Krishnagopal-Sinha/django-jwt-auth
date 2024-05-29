@@ -4,7 +4,8 @@
 This Django project implements user registration, login, and authentication using JSON Web Tokens (JWT). It includes views for user registration, login, retrieving user details, and logging out.
 
 ### Requirements
-- Checkout [requirements.txt](./requirements.txt).
+- Checkout [requirements.txt](./requirements.txt). 
+Note: This is simple package dump, unneeded pacakges are also included.
 
 ### Installation
 
