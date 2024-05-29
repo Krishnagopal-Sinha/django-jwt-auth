@@ -15,7 +15,7 @@ Follow these steps to get the project up and running on your local machine.
 #### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/django-jwt-auth.git
+git clone https://github.com/Krishnagopal-Sinha/django-jwt-auth.git
 cd django-jwt-auth
 ```
 
